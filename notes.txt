@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+1. No dropping rows for dealing with null values - Your MCAR, MAR and MNAR tasks will come to your rescue 
+2. Clean your notebook and proceed with app development 
+3. Perform corrections if they seem necessary 
+4. Phase-1 of development: Just add the necessary deliverables. Do optimization later. Try remove junky code if possible 
+5. Phase-2 of development: Organize your code AND remove unwanted junk 
+6. Phase-3 of development: Optimize your code AND steer ahead - Remove all "inplace" code, actually - they don't work for me 
+ 
+Problem Statement 
+- What exactly do I have to cluster? 
+Ans. Cluster attack locations ON the basis of kills AND stuff 
+- 3 Algorithms, 3 Metrics AND Hyperparameter Tuning 
+=======
+1. No dropping rows for dealing with null values - Your MCAR, MAR and MNAR tasks will come to your rescue 
+2. Clean your notebook and proceed with app development 
+3. Perform corrections if they seem necessary 
+4. Phase-1 of development: Just add the necessary deliverables. Do optimization later. Try remove junky code if possible 
+5. Phase-2 of development: Organize your code AND remove unwanted junk 
+6. Phase-3 of development: Optimize your code AND steer ahead - Remove all "inplace" code, actually - they don't work for me 
+ 
+>>>>>>> 8520d0e45c94ed9d5f8bbf9da3a4e313e5ff92e4
